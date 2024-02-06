@@ -1,5 +1,5 @@
 <template>
-  <div class="h-auto text-center space-y-20">
+  <div class="h-auto text-center space-y-20 max-w-[1024px] mx-auto">
     <!-- the navbar  -->
     <NavBar />
 
